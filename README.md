@@ -7,8 +7,7 @@ Details about the data processing and the paper’s content will be disclosed up
 
 
 # Repository and Components Overview
-Most of this project is written in Python. Python scripts are used to construct the model, simulate the model, and analyze model outputs.
-It is noteworthy that the data is collected in 2021, so the structure of websites may change. 
+Most of this project was developed using Python. The Python scripts were employed to build the model, run simulations, and analyze the model's outputs. Please note that the data was collected in 2021, and the structure of the websites may have changed since then.
 
 - crawler: The python code of the web-crawler of Taiwanese mass media. 
 - data:  A .7z file contains two JSON files with data we crawled on LGBT-related news in Taiwanese mass media from 2010 to 2021. One file includes the raw data from our initial collection, while the other provides a polished and structured version, complete with classifications.
