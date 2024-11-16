@@ -127,6 +127,6 @@ def web_crawl(x,n):
     
     return apple_df
 
-df=web_crawl('疫苗 after:2021-07-06 before:2021-07-10 site:tw.appledaily.com',1)
+df=web_crawl('同性 after:2021-07-06 before:2021-07-10 site:tw.appledaily.com',1)
 df2=df.drop_duplicates()
 df2.to_excel('蘋果新聞.xlsx',index=False)
