@@ -1,3 +1,3 @@
 
 # Notice:
- Apple Daily's website is no longer accessible.
+ Apple Daily is no longer accessible.
