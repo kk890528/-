@@ -1,7 +1,7 @@
 # Absract
 The web-crawling project and the collected data on LGBT-related news are part of my under-review paper, A Journey of Inclusiveness: Mapping Emotions and Phrases for LGBTQ in Taiwanese Major News Over the Past Decade.
 
-Details about the data processing and the paper’s content will be disclosed upon acceptance."
+Details about the data processing and the paper’s content will be disclosed upon acceptance.
 
 
 
